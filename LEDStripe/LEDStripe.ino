@@ -3,7 +3,7 @@
 ArtnetReceiver artnet;
 
 // FastLED
-#define NUM_LEDS 30
+#define NUM_LEDS 63
 CRGB leds[NUM_LEDS];
 #define DATA_PIN 6
 const int universe = 1;
